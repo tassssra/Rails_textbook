@@ -1,0 +1,2 @@
+# Rails_textbook
+Railsの教科書で取り組んだことをプッシュしていきます
